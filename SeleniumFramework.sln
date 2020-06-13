@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationResources", "AutomationResources\AutomationResources.csproj", "{AA849BBC-27D8-40A2-8712-1679DF9B8183}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumPageObjects", "SeleniumPageObjects\SeleniumPageObjects.csproj", "{8EB45098-9A4B-437E-8D41-ABA357C73C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA849BBC-27D8-40A2-8712-1679DF9B8183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA849BBC-27D8-40A2-8712-1679DF9B8183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA849BBC-27D8-40A2-8712-1679DF9B8183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA849BBC-27D8-40A2-8712-1679DF9B8183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB45098-9A4B-437E-8D41-ABA357C73C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB45098-9A4B-437E-8D41-ABA357C73C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB45098-9A4B-437E-8D41-ABA357C73C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB45098-9A4B-437E-8D41-ABA357C73C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B15070DD-0B98-4D03-9255-51156A3BDA38}
+	EndGlobalSection
+EndGlobal
